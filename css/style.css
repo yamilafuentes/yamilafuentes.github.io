@@ -124,11 +124,7 @@ body {
   color: #000000;
 }
   
-.linkfooter {
-  color: #000000;
-}
-
 
 .linkfooter:hover {
-  color: white;
+    color: white;
 }
