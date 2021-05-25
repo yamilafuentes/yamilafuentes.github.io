@@ -7,7 +7,6 @@ body {
     margin: 0px;
 }
 
-
 .banner {
     background-image: url('./../images/banner.jpg');
     background-size: cover;
@@ -27,16 +26,13 @@ body {
     color: white;
     font-size: 24px;
     opacity: 0.9;
-
 }
-
 
 .banner a:hover {
     background-color: #000000;
     color: white;
     border: 0.15em solid rgb(0, 0, 0);
 }
-
 
 .banner a {
     color: rgb(255, 255, 255);
@@ -47,9 +43,7 @@ body {
     transition: .3s;
     font-size: 20px;
     font-weight: bold;
-
 }
-
 
 .card-white {
     background: white;
@@ -69,7 +63,6 @@ body {
     object-fit: cover;
     border-radius: 4px;
 }
-
 
 .cards {
     display: flex;
@@ -104,8 +97,6 @@ body {
     transition: color 300ms, background 500ms, border-color 700ms;
 }
 
-
-
 .footer {
     background: #dfd2db;
     color: rgb(0, 0, 0);
@@ -113,17 +104,15 @@ body {
     text-align: center;
 }
 
-
 .linkfooter {
     outline: none;
     text-decoration: none;
     padding: 2px 1px 0;
-  }
+}
   
 .linkfooter {
   color: #000000;
 }
-  
 
 .linkfooter:hover {
     color: white;
